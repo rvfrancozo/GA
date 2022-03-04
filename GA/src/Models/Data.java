@@ -1,6 +1,6 @@
 package Models;
 
-public class Data { //evinbarbosa
+public class Data { //evinho
 	
 	private String Curso;
 	private String Turma;
