@@ -1,6 +1,6 @@
 package Models;
 
-public class Data { //Devil
+public class Data { //KVRA
 	
 	private String Curso;
 	private String Turma;
