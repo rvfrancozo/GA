@@ -1,6 +1,6 @@
 package Models;
 
-public class Data {//rafa
+public class Data {//ra
 	
 	private String Curso;
 	private String Turma;
