@@ -11,7 +11,7 @@ public class GA {
 		
 		List<Data> valores = new InstanceLoader().loader("horario.csv");
 		
-		System.out.println(valores.size());
+		System.out.println(valores.size()); 
 
 	}
 
