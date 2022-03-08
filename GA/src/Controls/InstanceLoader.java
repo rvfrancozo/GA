@@ -15,9 +15,9 @@ public class InstanceLoader {
 	//atualizado
 	
 	private static Scanner input;
-	private static List<Data> valores = new ArrayList<Data>();
+	private static ArrayList<Data> valores = new ArrayList<Data>();
 	
-	public List<Data> loader(String file) {
+	public ArrayList<Data> loader(String file) {
 		
 		try {
 			input = new Scanner(Paths.get(file));
