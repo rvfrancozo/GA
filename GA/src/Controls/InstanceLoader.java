@@ -12,6 +12,7 @@ import java.util.Scanner;
 import Models.Data;
 
 public class InstanceLoader {
+	//atualizado
 	
 	private static Scanner input;
 	private static List<Data> valores = new ArrayList<Data>();
