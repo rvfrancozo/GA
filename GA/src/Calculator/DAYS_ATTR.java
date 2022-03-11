@@ -6,7 +6,7 @@ import Models.Data;
 
 public class DAYS_ATTR implements SoftConstraints {
 	
-	//Criem outras classes como ess chamadas   
+	//Criem outras classes como essas chamadas   
 	//DAYS_ATTR		Dias com aulas alocadas
 	//SHIFT_ATTR	Períodos com aulas alocadas 
 	//M4SHIFT_ATTR	Períodos com mais de 4 aulas para um mesmo professor
