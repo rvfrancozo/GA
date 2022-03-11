@@ -1,4 +1,4 @@
-package src.Calculator;
+package Calculator;
 
 public class M4SHIFT_ATTR {
 

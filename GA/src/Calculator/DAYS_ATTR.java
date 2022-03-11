@@ -18,7 +18,7 @@ public class DAYS_ATTR implements SoftConstraints {
 
 	@Override
 	public int calculator(ArrayList<Data> timetable) {
-		return next.calculator(timetable);
+		return 2 + next.calculator(timetable);
 	}
 
 	@Override

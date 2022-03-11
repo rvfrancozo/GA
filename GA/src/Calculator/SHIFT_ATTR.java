@@ -1,5 +1,7 @@
-package src.Calculator;
+package Calculator;
 
-public class SHIFT_ATTR {
+public class SHIFT_ATTR implements SoftConstraint{
+	
+	private 
 
 }
